@@ -1,6 +1,7 @@
 6
 branch1 fix
 stage test 1 
+stage test 2 
 feature1 - dev 1
 feature1 - dev 2
 Fixed a prob during release
