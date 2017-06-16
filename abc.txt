@@ -3,3 +3,4 @@ branch1 fix
 feature1 - dev 1
 feature1 - dev 2
 Fixed a prob during release
+hotfix 2 - 1
