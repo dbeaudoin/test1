@@ -8,3 +8,4 @@ tes1 feature2 - 1
 tes1 feature2 - 2
 tes1 feature2 - 3
 hotfix 3 - 1
+hotfix 4 - 1
