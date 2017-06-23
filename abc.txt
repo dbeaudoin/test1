@@ -11,4 +11,5 @@ tes1 feature2 - 2
 tes1 feature2 - 3
 hotfix 3 - 1
 hotfix 4 - 1
-stage test 1 
+stage test 1
+Release - 2 
